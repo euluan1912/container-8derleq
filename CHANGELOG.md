@@ -1,3 +1,15 @@
+# v0.0.3 (Fri Oct 31 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Add package.json for Stremio addon ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.2 (Fri Oct 31 2025)
 
 #### ⚠️ Pushed to `main`
