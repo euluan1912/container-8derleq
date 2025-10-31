@@ -1,3 +1,15 @@
+# v0.0.4 (Fri Oct 31 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Add Dockerfile for Node.js application setup ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.3 (Fri Oct 31 2025)
 
 #### ⚠️ Pushed to `main`
