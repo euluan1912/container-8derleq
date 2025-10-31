@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "euluan1912",
+  "repo": "container-8derleq",
+  "name": "euluan1912",
+  "email": "euluan1912@gmail.com",
+}
