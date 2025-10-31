@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Oct 31 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Implement Stremio addon for scraping streams ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.1 (Fri Oct 31 2025)
 
 :tada: This release contains work from a new contributor! :tada:
