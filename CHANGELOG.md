@@ -1,3 +1,18 @@
+# v0.0.11 (Sat Nov 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Rename dockerfile to src/dockerfile ([@euluan1912](https://github.com/euluan1912))
+- Update package.json ([@euluan1912](https://github.com/euluan1912))
+- Rename server.js to src/server.js ([@euluan1912](https://github.com/euluan1912))
+- Delete src ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.10 (Sat Nov 01 2025)
 
 #### ⚠️ Pushed to `main`
