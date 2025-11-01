@@ -1,3 +1,16 @@
+# v0.0.12 (Sat Nov 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Expose port 5000 in Dockerfile ([@euluan1912](https://github.com/euluan1912))
+- Change server port from 7000 to 5000 ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.11 (Sat Nov 01 2025)
 
 #### ⚠️ Pushed to `main`
