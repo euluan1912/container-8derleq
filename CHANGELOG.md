@@ -1,3 +1,15 @@
+# v0.0.5 (Sat Nov 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update and rename Dockerfile to dockerfile ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.4 (Fri Oct 31 2025)
 
 #### ⚠️ Pushed to `main`
