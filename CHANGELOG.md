@@ -1,3 +1,15 @@
+# v0.0.7 (Sat Nov 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Change base image to node:18-alpine and update CMD ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.6 (Sat Nov 01 2025)
 
 #### ⚠️ Pushed to `main`
