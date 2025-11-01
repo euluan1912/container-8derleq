@@ -1,5 +1,7 @@
+# Se você usou o que eu recomendei (node:18-alpine):
 FROM node:18-alpine
 WORKDIR /app
 COPY . .
 RUN npm install
+EXPOSE 5000  # <--- CERTIFIQUE-SE DE QUE ESTÁ ASSIM
 CMD ["node", "server.js"]
