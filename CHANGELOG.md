@@ -1,3 +1,15 @@
+# v0.0.10 (Sat Nov 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Remove src directory ([@euluan1912](https://github.com/euluan1912))
+
+#### Authors: 1
+
+- [@euluan1912](https://github.com/euluan1912)
+
+---
+
 # v0.0.9 (Sat Nov 01 2025)
 
 #### ⚠️ Pushed to `main`
