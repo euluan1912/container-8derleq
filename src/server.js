@@ -75,4 +75,5 @@ builder.defineStreamHandler(async (args) => {
     return { streams: streams };
 });
 
-serveHTTP(builder.getInterface(), { port: 7000 });
+// Ação: Altere a linha abaixo no seu arquivo src/server.js
+serveHTTP(builder.getInterface(), { port: 5000 });
